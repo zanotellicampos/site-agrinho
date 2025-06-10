@@ -1,0 +1,24 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #e6f2e6;
+  color: #2c5d2d;
+}
+
+.bg-gradient {
+  background: linear-gradient(135deg, #2c5d2d, #4caf50);
+}
+
+header p {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.btn-outline-success {
+  border-width: 2px;
+  font-weight: 600;
+}
+
+.carousel-item img {
+  max-height: 450px;
+  object-fit: cover;
+}

@@ -1,0 +1,30 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #e6f2e6;
+  color: #2c5d2d;
+}
+
+header {
+  background-color: #2c5d2d;
+}
+
+form label {
+  color: #2c5d2d;
+}
+
+form input, form textarea {
+  border: 2px solid #4caf50;
+  transition: border-color 0.3s ease;
+}
+
+form input:focus, form textarea:focus {
+  border-color: #2c5d2d;
+  box-shadow: 0 0 5px #2c5d2d;
+  outline: none;
+}
+
+img {
+  max-height: 350px;
+  object-fit: cover;
+  box-shadow: 0 0 15px rgba(44, 93, 45, 0.3);
+}
