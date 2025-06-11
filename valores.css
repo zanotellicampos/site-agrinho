@@ -1,0 +1,16 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #e6f2e6;
+  color: #2c5d2d;
+}
+
+header {
+  background-color: #2c5d2d;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+.img {
+  border-width: 100px
+}
